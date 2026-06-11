@@ -154,15 +154,15 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Hari ini, saya langitkan semua doa terbaik saya untuk kamu.", "Semoga hal-hal yang membuat kamu runtuh turut menjadi alasan kamu untuk tetap tumbuh.", "Semoga dunia senantiasa menjaga kamu dimanapun kamu berada.", "Semoga hari-hari kamu selalu diiringi cinta yang tak pernah ada batasnya." , "Semoga setiap langkahmu dimudahkan hingga tercapai apa yang kamu inginkan."],
+  strings: ["Selamat ulang tahun, adekku. Semoga di usia yang baru ini kamu selalu diberikan kesehatan, kebahagiaan, umur yang panjang, serta kemudahan dalam setiap langkahmu.", "Semoga semua doa, harapan, dan cita-citamu dapat terwujud satu per satu.", "Terima kasih karena selalu menjadi adik yang baik dan membawa keceriaan setiap hari."Tetaplah menjadi pribadi yang kuat, rendah hati, dan tidak mudah menyerah dalam meraih impianmu."Tetaplah menjadi pribadi yang kuat, rendah hati, dan tidak mudah menyerah dalam meraih impianmu."Semoga setiap langkahmu dipenuhi keberuntungan, setiap usahamu membuahkan hasil yang baik, dan setiap harimu dipenuhi senyuman serta kebahagiaan"
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Dengan ataupun tanpaku, semoga semesta selalu membahagiakan kamu bagimanapun caranya.", " ", "barakallah fi umrik, terima kasih sudah bertahan sampai sejauh ini.", " ", "- Wish all you the best"],
-  startDelay: 2000,
+  strings: ["💖 Happy Birthday, Adek! 💖
+25 Juni akan selalu menjadi hari yang istimewa..", "Semoga tahun ini menjadi tahun terbaik untukmu, penuh dengan kebahagiaan, kesuksesan, dan banyak momen indah yang tak terlupakan. 🎁🎂🌷✨
   speed: 75,
   waitUntilVisible: true
 }).go();
